@@ -1,1 +1,10 @@
+**/**/__pycache__
+
+venv
+.coverage
+.idea/
+
+logs/
+secrets/
+
 .env
